@@ -20,3 +20,7 @@ body {
   font-family: Montserrat, Arial;
 }
 ```
+
+Nous pouvons par exemple ce principe pour : 
+* charger une image optimisée
+* désactiver le chargement dynamique automatiue d'une liste de donnes
