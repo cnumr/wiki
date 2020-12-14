@@ -1,4 +1,4 @@
-# Wiki du Collectif Numérique Responsabe
+# Wiki du Collectif Numérique Responsable
 
 ## :warning: Nos besoins Urgent
 Date         | Description   | Type de besoin
