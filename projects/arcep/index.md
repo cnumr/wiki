@@ -4,9 +4,9 @@
 ## Les membres 
 Nom / Prénom                                        | Entreprise    
 ------------                                        | -------------         
-[Sohn / Caroline](caroline-sohn@wanadoo.fr)         | -
+Sohn / Caroline                                     | -
 [Lemaire / Thomas](https://github.com/ACTLEM)       | -
-[Tord / Alain](atord@protonmail.com)                | -
-[Ristic / Pierre](pierre@ristic.fr )                | -
+Tord / Alain                                        | -
+Ristic / Pierre                                     | -
 
 ## Les besoins
