@@ -24,3 +24,5 @@ body {
 Nous pouvons par exemple ce principe pour : 
 * charger une image optimisée
 * désactiver le chargement dynamique automatiue d'une liste de donnes
+
+Pour plus d'informations sur la media query `prefers-reduced-data`, vous pouvew l'article dédié sur le site [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-data)
