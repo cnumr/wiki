@@ -1,5 +1,9 @@
-## Valider le code JavaScript avec JSLint
+## Valider votre code avec un Linter
 
-Dans des développements modernes, nous n'utiliserons plus JSLint pour vérifier la qualité du code source JavaScript.
-Nous allons utiliser un outil en ligne de commande reconnu par la communauté des développeurs : [ESLint](https://eslint.org/)
+Dans des développements modernes, nous recommandons d'ajouter à vore process de livraison différents outils permettant 
+d'assurer la qualité de votre code. 
+
+Nous pouvons par exemple utiliser: 
+* [ESLint](https://eslint.org/) pour le code JavaScript
+* [Stylelint](https://stylelint.io/) pour vs feuilles de styles
 

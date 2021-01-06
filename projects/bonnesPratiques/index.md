@@ -15,4 +15,4 @@ Nom / Prénom                                        | Entreprise
 * [Limiter le nombre de requêtes HTTP](/projects/bonnesPratiques/bonne_pratique_9_fr.md)
 * [Grouper les déclarations CSS similaires](/projects/bonnesPratiques/bonne_pratique_25_fr.md)
 * [Favoriser les polices standards](/projects/bonnesPratiques/bonne_pratique_29_fr.md)
-* [Valider le code JavaScript avec JSLint](/projects/bonnesPratiques/bonne_pratique_46_fr.md)
+* [Valider votre code avec un Linter](/projects/bonnesPratiques/bonne_pratique_46_fr.md)
