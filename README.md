@@ -8,7 +8,6 @@ xx/xx/xxxx   | x             | x
 ## :calendar: Les prochains évenements
 Type d'évenement                | Date          | Lieu / désignation        | Référent·e·s présent·e·s
 ------------                    | ------------- | -------------             | -------------
-Conf Numérique Responsable      | 14/01/2020    | Visio / AXA France        | [Romuald](https://github.com/docroms)
 
 [voir les événements passés](/events/old.md)
 
