@@ -14,7 +14,7 @@ Toutes les personnes ayant accès au dépôt peuvent contribuer à l'améliorati
 
 #### La règle existe
 Il vous suffit de créer une nouvelle branche, avec les modifications que vous proposez, puis d'ouvrir une PR qui sera 
-soumises et validée par le reste de la communauté.
+soumise et validée par le reste de la communauté.
 
 #### La règle existe mais n'est pas encore présente sur le dépôt
 Creér un nouveau fichier avec son id Eyrolles_v3 dans le dossier `/projects/bonnes_pratiques` 
