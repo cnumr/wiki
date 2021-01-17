@@ -1,10 +1,10 @@
-## Préférer la saisie assistée à l'autocomplétions
+## Préférer la saisie assistée à l'autocomplétion
 
 ### Alternatives
 
 * Utilisation de l'élément HTML [datalist](https://developer.mozilla.org/fr/docs/Web/HTML/Element/datalist)
 
-Si la données qui est proposée à l'utilisateur est assez petite en quantité, vous pouvez l'inclure directement dans votre code HTML et utiliser l'éléments natif `datalist`. Ce système proposera nativement, et sans aller/retour avec le serveur, un mécanisme d'autocompletion.
+Si la quantité de données proposée à l'utilisateur est raisonnable, vous pouvez l'inclure directement dans votre code HTML en utilisant l'élément `datalist`. Ce système proposera nativement, et sans aller-retour avec le serveur, un mécanisme d'autocomplétion.
 
 ```html
 <label for="ice-cream-choice">Choose a flavor:</label>
