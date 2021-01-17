@@ -2,9 +2,9 @@
 
 ### Alternatives
 
-Vos utilisateurs peuvent faire le choix, via les préférence de leurs navigateurs, de demander aux sites web qu'ils visitent d'optimiser les requêtes réseau réalisées. Grâce à cette possibilité et à une media queries de ne télécharger la font que pour les utilisateurs la souhaitant. 
+Via les préférences de leurs navigateurs, vos utilisateurs peuvent faire le choix de demander d'optimiser les requêtes réseau réalisées pour les sites qu'ils visitent. À l'aide d'une media query, la font n'est alors téléchargée que pour les utilisateurs la souhaitant.  
 
-Dans l'exemple ci-dessous, nous ne téléchargeons que la font `Montserrat` si et seulement si l'utilisateur n'a pas définir de préférence. Si ce n'est pas le cas, la font ne sera pas téléchargée, et la font `Arial` sera utilisée.  
+Dans l'exemple ci-dessous, nous ne téléchargeons que la font `Montserrat` si et seulement si l'utilisateur n'a pas défini de préférence. Si ce n'est pas le cas, la font ne sera pas téléchargée, et la font `Arial` sera utilisée.  
 
 ```css
 @media (prefers-reduced-data: no-preference) {
@@ -17,12 +17,12 @@ Dans l'exemple ci-dessous, nous ne téléchargeons que la font `Montserrat` si e
 }
 
 body {
-  font-family: Montserrat, Arial;
+  font-family: Montserrat, Arial, sans-serif;
 }
 ```
 
-Nous pouvons par exemple ce principe pour : 
-* charger une image optimisée
-* désactiver le chargement dynamique automatiue d'une liste de donnes
+Nous pouvons par exemple aussi utiliser ce principe pour : 
+* décharger une image optimisée
+* désactiver le chargement dynamique automatique d'une liste de données
 
-Pour plus d'informations sur la media query `prefers-reduced-data`, vous pouvew l'article dédié sur le site [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-data)
+Pour plus d'informations sur la media query `prefers-reduced-data`, vous pouvez retrouver l'article dédié sur le site [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-data)
