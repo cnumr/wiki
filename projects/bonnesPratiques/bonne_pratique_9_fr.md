@@ -10,7 +10,7 @@ Afin de limiter la taille de votre code JavaScript, vous pouvez mettre en place 
   
 Le premier livrable étant bien entendu obligatoirement plus petit en terme de poids que le second.
 
-Ensuite, pour indiquer quelle version soit être téléchargée par le navigateur, nous allons utiliser la syntaxe 
+Ensuite, pour indiquer quelle version doit être téléchargée par le navigateur, nous allons utiliser la syntaxe 
 **module/nomodule**. Les navigateurs récents utiliseront l'import `type=module` et pour les autres l'import avec l'attribut `nomodule`.
 
 ```html
