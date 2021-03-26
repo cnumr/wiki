@@ -11,8 +11,7 @@ Nom / Prénom                                        | Entreprise
 
 ## La liste des 115 Bonnes pratiques
 
-* [Préférer la saisie assistée à l'autocomplétions](/projects/bonnesPratiques/bonne_pratique_4_fr.md)
-* [Limiter le nombre de requêtes HTTP](/projects/bonnesPratiques/bonne_pratique_9_fr.md)
-* [Grouper les déclarations CSS similaires](/projects/bonnesPratiques/bonne_pratique_25_fr.md)
-* [Favoriser les polices standards](/projects/bonnesPratiques/bonne_pratique_29_fr.md)
-* [Valider votre code avec un Linter](/projects/bonnesPratiques/bonne_pratique_46_fr.md)
+Disponible pour les contributrices et contributeurs sur un dépôt actuellement privés. 
+
+Pour contribuer, merci de demander les droits à [Emmanuel Demey](https://github.com/EmmanuelDemey) ou
+à [Romuald Priol](https://github.com/docroms).

@@ -1,7 +1,8 @@
 # EcoIndex
 ## Le projet
 ### Le site internet
-### L'extension "google Chrome"
+### Les extensions
+### en CLI
 
 ## Les membres 
 Nom / Prénom                                    | Entreprise    
