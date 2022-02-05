@@ -26,6 +26,7 @@ Cette liste est maintenue par Philippe Strosser et Sylvain Révéreault. Si vous
 
 ### Évaluation automatique
 
+ - [Green IT Analysis](greenIT-analysis.md)
  - Liste à compléter
 
 ### Compétences / formation
