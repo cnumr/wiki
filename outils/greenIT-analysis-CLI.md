@@ -4,8 +4,10 @@
 
  - Catégorie : Évaluation automatique
  - URL : [https://github.com/cnumr/GreenIT-Analysis-cli](https://github.com/cnumr/GreenIT-Analysis-cli)
+ - Auteur : Jules Delecour
  - Mainteneurs : [https://github.com/jpreisner](https://github.com/jpreisner), [Jules Delecour](https://github.com/jules-delecour-dav)
  - Nombre d'utilisateurs : non connu. Plusieurs forks et stars sur le projet Github.
+ - Statut : Validé
 
 ## Description
 
@@ -25,7 +27,21 @@ La description détaillée et le mode opératoire sont disponibles sur la [page 
 
 ## Outils associés
 
-EcoIndex, référentiel de conformité, répertoire de bonnes pratiques d'écoconception, Green IT Analysis
+### Dépendances
+
+Green IT Analysis, référentiel de bonnes pratiques d'écoconception
+
+### Déclinaisons
+
+N/A
+
+### Autres outils liés
+
+EcoIndex, référentiel de conformité 
+
+## Limitations / contraintes
+
+Cet outil fait appel à une API ne permettant pas son utilisation à des fins commerciales.
 
 ## Pour aller plus loin
 

@@ -10,8 +10,13 @@
    - Évaluation automatique
    - Compétences / formation
  - URL : [https://github.com/cnumr/wiki/outils](https://github.com/cnumr/wiki/outils)
- - Mainteneurs : Philippe Strosser, Sylvain Révéreault
+ - Auteur : *exemple pour ce template : Sylvain Révéreault*
+ - Mainteneurs : *exemple pour ce template : Philippe Strosser, Sylvain Révéreault*
  - Nombre d'utilisateurs : si l'information est connue
+ - Statut : __à choisir parmi la liste suivante :__
+   - En validation
+   - Validé 
+   - Obsolète
 
 ## Description
 
@@ -29,7 +34,21 @@ Si nécessaire
 
 ## Outils associés
 
+### Dépendances
+
+Cet outil est-il dépendant d'autres outils du CNumR ?
+
+### Déclinaisons
+
+Existe-t-il d'autres outils utilisant cet outil comme dépendance ?
+
+### Autres outils liés
+
 Autres outils CNUMR associés
+
+## Limitations / contraintes
+
+À renseigner
 
 ## Pour aller plus loin
 

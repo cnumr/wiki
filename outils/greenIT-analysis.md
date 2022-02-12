@@ -4,8 +4,10 @@
 
  - Catégorie : Évaluation automatique
  - URL : [https://github.com/cnumr/GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis)
+ - Auteur : 
  - Mainteneurs : [https://github.com/didierfred](https://github.com/didierfred)
  - Nombre d'utilisateurs : plus de 8000 pour l'extension Chrome, et plus de 1000 pour l'extension Firefox
+ - Statut : Validé
 
 ## Description
 
@@ -26,7 +28,21 @@ La description détaillée et le mode opératoire sont disponibles sur la [page 
 
 ## Outils associés
 
-EcoIndex, référentiel de conformité, répertoire de bonnes pratiques d'écoconception, versions CLI
+### Dépendances
+
+Répertoire de bonnes pratiques d'écoconception
+
+### Déclinaisons
+
+EcoIndex, version CLI ([Green IT Analysis CLI](greenIT-analysis-CLI.md))
+
+### Autres outils liés
+
+Référentiel de conformité
+
+## Limitations / contraintes
+
+Cet outil fait appel à une API ne permettant pas son utilisation à des fins commerciales.
 
 ## Pour aller plus loin
 
