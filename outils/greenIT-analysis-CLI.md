@@ -2,12 +2,12 @@
 
 ## Informations utiles
 
- - Catégorie : Évaluation automatique
- - URL : [https://github.com/cnumr/GreenIT-Analysis-cli](https://github.com/cnumr/GreenIT-Analysis-cli)
- - Auteur : Jules Delecour
- - Mainteneurs : [https://github.com/jpreisner](https://github.com/jpreisner), [Jules Delecour](https://github.com/jules-delecour-dav)
- - Nombre d'utilisateurs : non connu. Plusieurs forks et stars sur le projet Github.
- - Statut : Validé
+ - __Catégorie__ : Évaluation automatique
+ - __URL__ : [https://github.com/cnumr/GreenIT-Analysis-cli](https://github.com/cnumr/GreenIT-Analysis-cli)
+ - __Auteur__ : Jules Delecour
+ - __Mainteneurs__ : [https://github.com/jpreisner](https://github.com/jpreisner), [Jules Delecour](https://github.com/jules-delecour-dav)
+ - __Nombre d'utilisateurs__ : non connu. Plusieurs forks et stars sur le projet Github.
+ - __Statut__ : Validé
 
 ## Description
 

@@ -2,12 +2,12 @@
 
 ## Informations utiles
 
- - Catégorie : Évaluation automatique
- - URL : [https://github.com/cnumr/GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis)
- - Auteur : [https://github.com/didierfred](https://github.com/didierfred)
- - Mainteneurs : [https://github.com/didierfred](https://github.com/didierfred)
- - Nombre d'utilisateurs : plus de 8000 pour l'extension Chrome, et plus de 1000 pour l'extension Firefox
- - Statut : Validé
+ - __Catégorie__ : Évaluation automatique
+ - __URL__ : [https://github.com/cnumr/GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis)
+ - __Auteur__ : [https://github.com/didierfred](https://github.com/didierfred)
+ - __Mainteneurs__ : [https://github.com/didierfred](https://github.com/didierfred)
+ - __Nombre d'utilisateurs__ : plus de 8000 pour l'extension Chrome, et plus de 1000 pour l'extension Firefox
+ - __Statut__ : Validé
 
 ## Description
 

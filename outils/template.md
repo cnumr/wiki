@@ -2,18 +2,18 @@
 
 ## Informations utiles
 
- - Catégorie : __à choisir parmi la liste suivante :__
+ - __Catégorie__ : *à choisir parmi la liste suivante :*
    - Répertoire de bonnes pratiques
    - Référentiel de conformité
    - Système d'évaluation
    - Calcul automatique
    - Évaluation automatique
    - Compétences / formation
- - URL : [https://github.com/cnumr/wiki/outils](https://github.com/cnumr/wiki/outils)
- - Auteur : *exemple pour ce template : Sylvain Révéreault*
- - Mainteneurs : *exemple pour ce template : Philippe Strosser, Sylvain Révéreault*
- - Nombre d'utilisateurs : si l'information est connue
- - Statut : __à choisir parmi la liste suivante :__
+ - __URL__ : [https://github.com/cnumr/wiki/outils](https://github.com/cnumr/wiki/outils)
+ - __Auteur__ : *exemple pour ce template : Sylvain Révéreault*
+ - __Mainteneurs__ : *exemple pour ce template : Philippe Strosser, Sylvain Révéreault*
+ - __Nombre d'utilisateurs__ : si l'information est connue
+ - __Statut__ : *à choisir parmi la liste suivante :*
    - En validation
    - Validé 
    - Obsolète
