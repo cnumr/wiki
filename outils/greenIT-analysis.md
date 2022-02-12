@@ -4,7 +4,7 @@
 
  - Catégorie : Évaluation automatique
  - URL : [https://github.com/cnumr/GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis)
- - Auteur : 
+ - Auteur : [https://github.com/didierfred](https://github.com/didierfred)
  - Mainteneurs : [https://github.com/didierfred](https://github.com/didierfred)
  - Nombre d'utilisateurs : plus de 8000 pour l'extension Chrome, et plus de 1000 pour l'extension Firefox
  - Statut : Validé
