@@ -9,7 +9,7 @@
    - Calcul automatique
    - Évaluation automatique
    - Compétences / formation
- - __URL__ : [https://github.com/cnumr/wiki/outils](https://github.com/cnumr/wiki/outils)
+ - __URL__ : *exemple pour ce template :* [https://github.com/cnumr/wiki/outils](https://github.com/cnumr/wiki/outils)
  - __Auteur__ : *exemple pour ce template : Sylvain Révéreault*
  - __Mainteneurs__ : *exemple pour ce template : Philippe Strosser, Sylvain Révéreault*
  - __Nombre d'utilisateurs__ : si l'information est connue
