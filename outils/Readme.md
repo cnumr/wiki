@@ -28,6 +28,9 @@ Cette liste est maintenue par Philippe Strosser et Sylvain Révéreault. Si vous
 
  - [Green IT Analysis](greenIT-analysis.md)
  - [Green IT Analysis CLI](greenIT-analysis-CLI.md)
+ - [Ecoindex Python](ecoindex_python.md)
+ - [Ecoindex CLI](ecoindex_cli.md)
+ - [Ecoindex API](ecoindex_api.md)
 
 ### Compétences / formation
 
