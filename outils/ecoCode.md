@@ -44,11 +44,11 @@ Il n'est pas dépendant d'autres outils du CNumR
 
 ### Déclinaisons
 
-Aucun autre outils utilise cet outil comme dépendance.
+Aucun autre outil utilise cet outil comme dépendance.
 
 ### Autres outils liés
 
-Aucun autre outils CNumrR n'est associé à cet outil.
+Aucun autre outil CNumrR n'est associé à cet outil.
 
 ## Limitations / contraintes
 
